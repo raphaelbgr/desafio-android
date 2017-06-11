@@ -2,7 +2,7 @@
 
 Criar um aplicativo para consultar a [Dribbble API](http://developer.dribbble.com/v1/) e trazer os shots + populares . Basear-se no mockup fornecido:
 
-![Screen mockup-dribble-desafio.png](https://bytebucket.org/adminsuper/desafio-adnroid-super-revendedores/raw/5832d83a2defd92faec71c69576e0f2631916194/image/mockup-dribble-desafio.png)
+![Screen mockup-dribble-desafio.png](https://bytebucket.org/adminsuper/desafio-android-super-revendedores/raw/5832d83a2defd92faec71c69576e0f2631916194/image/mockup-dribble-desafio.png)
 
 ### **Deve conter** ###
 
