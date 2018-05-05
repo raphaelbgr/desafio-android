@@ -2,8 +2,8 @@
 
 Criar um aplicativo para consultar a [API do GitHub](https://developer.github.com/v3/) e trazer os repositórios mais populares de Java. Basear-se no mockup fornecido:
 
-![list](image/list.png)
-![repo](image/repo.png)
+![Lista de repositorios](https://bitbucket.org/adminsuper/desafio-android-super-revendedores/raw/95459e655c07e52ca3906624ca831e12913b664c/image/list.png)
+![Lista de PR](https://bitbucket.org/adminsuper/desafio-android-super-revendedores/raw/95459e655c07e52ca3906624ca831e12913b664c/image/repo.png =250x250)
 
 ### **Deve conter** ###
 
