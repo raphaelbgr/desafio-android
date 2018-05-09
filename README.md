@@ -38,7 +38,7 @@ Pode-se utilizar das libs que preferir. Há muitos lugares de referência como [
 Caso tenha alguma dúvida, o [CodePath](https://guides.codepath.com/android) é um bom lugar para dar uma olhada. Não impedimos 
 que outros lugares sejam consultados.
 
-Use de preferência **JAVA** para o desafio, mas saber Kotlin é um diferencial.
+Use **JAVA** para o desafio
 
 Bons usos do material design são apreciados pelo nosso designer! :D
 
