@@ -30,6 +30,9 @@ A foto do mockup é meramente ilustrativa.
 * App Universal
 * Cache de Imagens
 * Cache dos dados
+* RxJava e RxAndroid
+* Dbflow
+* minAPI 15
  
 
 ### **Sugestões** ###
