@@ -1,3 +1,21 @@
+# Desafio Android - Super Revendedores
+
+##### por Raphael Bernardo
+
+####Arquitetura utilizada: Model View Presenter (MVP)
+####Features e libs utilizadas:
+    # dagger2
+    # rxjava2 e rxandroid2
+    # picasso
+    # okhttp3
+    # gson
+    # proguard-rules.txt configurado
+    # cache de dados em memória no presenter sem dependência do lifecycle do App
+    # cache de imagens configurado pelo picasso no NetworkModule.java
+    # 
+
+# ---------------------------------------------------------
+
 # Criar um aplicativo de consulta a API do [GitHub](https://github.com)#
 
 Criar um aplicativo para consultar a [API do GitHub](https://developer.github.com/v3/) e trazer os repositórios mais populares de Java. Basear-se no mockup fornecido:
