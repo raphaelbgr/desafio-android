@@ -12,7 +12,10 @@
     # proguard-rules.txt configurado
     # cache de dados em memória no presenter sem dependência do lifecycle do App
     # cache de imagens configurado pelo picasso no NetworkModule.java
-    # 
+    # minApi 15
+    # suporte a multi-idiomas (strings armazenadas do strings.xml
+    # testes instrumentados utilizando espresso
+    # testes unitarios utilizando mockito
 
 # ---------------------------------------------------------
 

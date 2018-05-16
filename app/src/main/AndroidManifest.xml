@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="br.com.superrevendedores.android.raphael.desafio">
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -23,7 +24,8 @@
 
         <activity
             android:name=".pullrequests.PullRequestsActivity"
-            android:parentActivityName=".repositories.RepositoriesActivity">
+            android:parentActivityName=".repositories.RepositoriesActivity"
+            tools:targetApi="jelly_bean">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".repositories.RepositoriesActivity" />
