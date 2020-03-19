@@ -5,7 +5,7 @@
     android:id="@+id/repository_item"
     android:layout_width="match_parent"
     android:layout_height="@dimen/item_repository_height"
-    android:background="?attr/selectableItemBackground"
+    android:foreground="?attr/selectableItemBackground"
     tools:ignore="Overdraw">
 
     <TextView
@@ -19,7 +19,8 @@
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:text="@string/repository_name" />
+        tools:text="@string/repository_name"
+        android:layout_marginLeft="@dimen/margin_default" />
 
     <TextView
         android:id="@+id/repo_desc"
